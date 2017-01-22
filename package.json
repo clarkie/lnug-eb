@@ -1,0 +1,22 @@
+{
+  "name": "lnug-eb",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/clarkie/lnug-eb.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/clarkie/lnug-eb/issues"
+  },
+  "homepage": "https://github.com/clarkie/lnug-eb#readme",
+  "dependencies": {
+    "hapi": "^16.1.0"
+  }
+}
